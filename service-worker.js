@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gold-fx;
+const CACHE_NAME = 'gold-sniper';
 const urlsToCache = [
   './index.html',
   './manifest.json'
